@@ -358,5 +358,26 @@
   },
   "implementation": {
     "__resolveType": "decohub/apps/implementation.ts"
+  },
+  "Preview /sections/Logos.tsx": {
+    "__resolveType": "site/sections/Logos.tsx"
+  },
+  "My Block": {
+    "__resolveType": "site/sections/BlogPosts.tsx",
+    "posts": []
+  },
+  "Preview /sections/NewSection.tsx": {
+    "__resolveType": "site/sections/NewSection.tsx",
+    "persona": {
+      "name": "wesley"
+    },
+    "Ativo": {},
+    "ativo": true,
+    "title": "outro titulo",
+    "hidden": true,
+    "ocultar": false,
+    "darkTheme": true,
+    "BlackFriday": true,
+    "blackFriday": true
   }
 }
